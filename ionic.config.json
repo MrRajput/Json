@@ -1,0 +1,7 @@
+{
+  "name": "AjotNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
